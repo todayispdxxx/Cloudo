@@ -1,0 +1,7 @@
+{
+  "name": "Cloud Do",
+  "description": "A healing, lightweight life management tool. Lighten your day, cloud by cloud.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
